@@ -93,7 +93,7 @@ crossOrigin="anonymous">
       height={"400px"}/>
             <h6 className=" ms-auto m-3 title-img"> {item.title} </h6>
             <div className="inlin">         
-             <a className="btn btn-light  mx-2 " href="https://api.whatsapp.com/send?phone=0501153232"><img className="whats" src="/WhatsApp.svg.png"  alt="" /></a>
+             <a className="btn btn-light  mx-2 " href="https://api.whatsapp.com/send?phone=0501133232"><img className="whats" src="/WhatsApp.svg.png"  alt="" /></a>
             </div>
         </div>
         ))

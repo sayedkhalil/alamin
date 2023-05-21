@@ -76,7 +76,7 @@ const Product = ({item}) => {
     <div className="col-12 col-lg-8 mx-auto mt-2 border border-success rounded p-4">
        <p className="font-weight-bold text-center">{product.des}</p> 
     </div>
-    <a className="btn btn-light mt-3 mx-2" href="https://api.whatsapp.com/send?phone=0501153232"><img className="whats" src="/WhatsApp.svg.png"  alt="" />تواصل واتساب</a>
+    <a className="btn btn-light mt-3 mx-2" href="https://api.whatsapp.com/send?phone=0501133232"><img className="whats" src="/WhatsApp.svg.png"  alt="" />تواصل واتساب</a>
 
  <h3 className="col-12 col-lg-3 title ms-auto mt-3">رأيك يهمنا</h3>
  <div className="input-group input-group-sm mb-3 w-75 ms-auto">
